@@ -1,0 +1,14 @@
+li {
+    list-style-type: none;
+    margin: 5px;
+    padding: 2px;
+    color: rgb(31, 51, 117);
+}
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+ul > li:hover{
+    color:rgb(33, 82, 243);
+}
