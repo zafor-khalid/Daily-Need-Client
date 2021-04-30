@@ -6,5 +6,3 @@
     2. buy products and checkout
     3. private routing with firebase authentication system
     4. simple React-Express-MongoDB-Node(MERN) project. 
-
-![Screenshot]('/src/scrnsht/Screenshot from 2021-01-23 00-35-31.png)
